@@ -4,3 +4,4 @@ carac = 'Hola mundo'
 
 print("Tipo de la variable es",type(carac))
 
+print("actualizando varrr")
